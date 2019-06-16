@@ -1,0 +1,1 @@
+create table user905(id int(100) auto_increment, name varchar(100), password varchar(100), email varchar(100), country varchar(100), PRIMARY KEY (id));
